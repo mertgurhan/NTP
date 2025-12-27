@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\ASUS\Desktop\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\ASUS\Desktop\Final\vt3_parameters\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\ASUS\Desktop\Final\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\ASUS\Desktop\Final\vt3_parameters\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb

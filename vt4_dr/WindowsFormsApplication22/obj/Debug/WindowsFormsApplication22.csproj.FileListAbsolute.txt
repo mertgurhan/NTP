@@ -1,0 +1,10 @@
+D:\home\dnot1\csharp2\ksbu2\12.hafta\vt4_dr\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\ASUS\Desktop\Final\vt4_dr\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
